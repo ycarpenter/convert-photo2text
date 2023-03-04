@@ -20,7 +20,7 @@ To run the app locally, follow these steps:
 # Dependencies
 The following dependencies are used in this project:
 
-- React Create App
+- Create React App
 - Tesseract.js
 
 # Acknowledgments

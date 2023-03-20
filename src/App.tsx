@@ -1,6 +1,6 @@
-import Main from './pages/Main'
+import Home from './pages/Home'
 
 export const App = () => {
-  return <Main />
+  return <Home />
 }
 export default App

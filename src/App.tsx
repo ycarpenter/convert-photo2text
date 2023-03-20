@@ -1,7 +1,6 @@
-import React from 'react'
+import Main from './pages/Main'
 
-const App = () => {
-  return <h1>home</h1>
+export const App = () => {
+  return <Main />
 }
-
 export default App

@@ -29,12 +29,9 @@
   "rules": {
     "react/jsx-uses-react": "error",
     "react/jsx-uses-vars": "error",
+    "react/react-in-jsx-scope": "off",
     "camelcase": "error",
     "spaced-comment": "error",
-    "quotes": [
-      "error",
-      "single"
-    ],
     "no-duplicate-imports": "error"
   },
   "settings": {

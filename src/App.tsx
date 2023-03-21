@@ -1,6 +1,5 @@
 import Home from './pages/Home'
 
-export const App = () => {
+export default function App(): JSX.Element {
   return <Home />
 }
-export default App

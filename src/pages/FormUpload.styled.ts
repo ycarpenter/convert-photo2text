@@ -8,5 +8,3 @@ export const FormUpload = styled.form`
   gap: 20px;
   max-width: 320px;
 `
-
-export default FormUpload

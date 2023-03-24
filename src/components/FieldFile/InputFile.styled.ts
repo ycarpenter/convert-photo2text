@@ -1,5 +1,6 @@
 import styled from 'styled-components'
 
-export const InputFile = styled.input`
-  margin: 0 auto;
+export const StyledInputFileBtn = styled.input.attrs({ type: 'file' })`
+  &&::file-selector-button {
+  }
 `

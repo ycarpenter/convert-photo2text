@@ -1,4 +1,6 @@
-# Converter text from photo
+# IN PROCESS
+
+# App to converter text from photo
 
 This app allows users to extract text from images using OCR (Optical Character Recognition) technology. This app was built with React Create App.
 
